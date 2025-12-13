@@ -2,7 +2,5 @@
 
 💻 Frontend Developer | Data Analyst 
 
-🤝 Open to collaboration
-
 📫 You can reach out to me via LinkedIn: [Narmin Kazimova](https://www.linkedin.com/in/narmin-kazimova-0a64b2307/)
 
