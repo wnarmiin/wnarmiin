@@ -1,8 +1,6 @@
-👋 Hi, I’m Narmin Kazimova (@wnarmiin)
+👋 Hi, I’m Narmin Kazimova 
 
-💻 Frontend Developer with a background in Data Analytics
-
-🌱 Learning and building web & data-driven projects
+💻 Frontend Developer | Data Analyst 
 
 🤝 Open to collaboration
 
