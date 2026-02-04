@@ -20,16 +20,20 @@
 
  <br>
 
+<br>
+
 <h3 align="center">💻 Frontend Development</h3>
+<p align="center">---</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,strapi,tailwind,figma,git&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,strapi,tailwind,figma,git" />
 </p>
 
 <br>
 
 <h3 align="center">📊 Data Analytics</h3>
+<p align="center">---</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres&perline=3" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres" />
   <br>
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -37,6 +41,12 @@
 </p>
 
 <br>
+
+<h3 align="center">📈 GitHub Stats</h3>
+<p align="center">---</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wnarmiin&show_icons=true&theme=dark" alt="Narmin's Stats" />
+</p>
 
 <h3 align="center">📈 GitHub Stats</h3>
 <p align="center">
