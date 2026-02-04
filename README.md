@@ -3,13 +3,15 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="50">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="100">
   <b><font size="30" color="red"><i>Hey Everyone, I'm Narmin</i></font></b>
 </p>
 
 ---
 
 <img src="https://github.com/wnarmiin/wnarmiin/raw/main/Pixel%20Coding%20Sticker%20by%20ArkusNexus.gif" width="220" align="right">
+
+<br>
 
 💻 **Frontend Developer | Data Analyst**
 
