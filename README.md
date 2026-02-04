@@ -4,8 +4,9 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="50">
-  <b><font size="7" color="red"><i>Hey Everyone, I'm Narmin</i></font></b>
+  <b><span style="font-size: 60px; color: red;"><i>Hey Everyone, I'm Narmin</i></span></b>
 </p>
+
 
 ---
 
