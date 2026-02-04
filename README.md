@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35">
-  <b><font size="6" color="red"><i>Hey Everyone, I'm Narmin</i></font></b>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="45">
+  <b><font size="7" color="red"><i>Hey Everyone, I'm Narmin</i></font></b>
 </p>
 
 ---
