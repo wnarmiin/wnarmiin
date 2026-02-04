@@ -2,13 +2,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=Life+is+like+coding+-+sometimes+you+need+to+debug+and+refactor+to+make+things+work+smoothly." alt="Typing SVG" />
 </p>
 
-<img src="https://github.com/wnarmiin/wnarmiin/raw/main/Pixel%20Coding%20Sticker%20by%20ArkusNexus.gif" width="220" align="right">
-
-# <p align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="55"> <font color="red"><i>Hey Everyone, I'm Narmin</i></font></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="50">
+  <b><font size="30" color="red"><i>Hey Everyone, I'm Narmin</i></font></b>
+</p>
 
 ---
 
-<br>
+<img src="https://github.com/wnarmiin/wnarmiin/raw/main/Pixel%20Coding%20Sticker%20by%20ArkusNexus.gif" width="220" align="right">
 
 💻 **Frontend Developer | Data Analyst**
 
