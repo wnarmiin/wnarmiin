@@ -19,16 +19,16 @@
 📫 You can reach out to me via LinkedIn: [Narmin Kazimova](https://www.linkedin.com/in/narmin-kazimova-0a64b2307/)
 <br><br><br>
 
-<h3 align="center">💻 Frontend Development</h3>
-<hr>
+<p align="center"><b>💻 Frontend Development</b></p>
+<p align="center">_______________________________________________________________________________________________________________________________________</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,re,nextjs,tailwind,figma,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,figma,git" />
 </p>
 
 <br>
 
-<h3 align="center">📊 Data Analytics</h3>
-<hr>
+<p align="center"><b>📊 Data Analytics</b></p>
+<p align="center">_______________________________________________________________________________________________________________________________________</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,mysql,postgres" />
   <br><br>
@@ -39,8 +39,8 @@
 
 <br>
 
-<h3 align="center">📈 GitHub Stats</h3>
-<hr>
+<p align="center"><b>📈 GitHub Stats</b></p>
+<p align="center">_______________________________________________________________________________________________________________________________________</p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wnarmiin&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=wnarmiin&show_icons=true&theme=dark" />
 </p>
