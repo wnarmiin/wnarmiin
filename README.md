@@ -1,4 +1,8 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=FF0000&width=950&lines=Life+is+like+coding+-+sometimes+you+need+to+debug+and+refactor+to+make+things+work+smoothly." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=FF69B4&width=950&lines=Life+is+like+coding+-+sometimes+you+need+to+debug+and+refactor+to+make+things+work+smoothly." alt="Typing SVG" />
+
+# <font color="red"><i>Hey Everyone , I'm Narmin <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" vertical-align="middle"></i></font>
+
+---
 
 👋 Hi, I’m Narmin Kazimova 
 
