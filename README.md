@@ -8,7 +8,7 @@
 
 ---
 
-<br>
+
 
 💻 **Frontend Developer | Data Analyst**
 
