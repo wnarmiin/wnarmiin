@@ -44,9 +44,7 @@
 <br>
 
 <p align="center"><b>📈 GitHub Stats</b></p>
-
----
-
+<p align="center">_______________________________________________________________________________________________________________________________________</p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wnarmiin&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=wnarmiin&show_icons=true&theme=dark" />
 </p>
