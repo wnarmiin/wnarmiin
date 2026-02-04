@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&width=800&lines=Life+is+like+coding+-+sometimes+you+need+to+debug+and+refactor+to+make+things+work+smoothly." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF0000&width=600&lines=Life+is+like+coding+-+sometimes+you+need+to+debug+and+refactor+to+make+things+work+smoothly." alt="Typing SVG" />
 
 👋 Hi, I’m Narmin Kazimova 
 
