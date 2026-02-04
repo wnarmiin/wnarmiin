@@ -13,6 +13,7 @@
 
 <br>
 <br>
+<br>
 
 💻 **Frontend Developer | Data Analyst**
 
