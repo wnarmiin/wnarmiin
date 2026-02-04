@@ -17,3 +17,28 @@
 💻 **Frontend Developer | Data Analyst**
 
 📫 You can reach out to me via LinkedIn: [Narmin Kazimova](https://www.linkedin.com/in/narmin-kazimova-0a64b2307/)
+
+ <br>
+
+<h3 align="center">💻 Frontend Development</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,strapi,tailwind,figma,git&perline=9" />
+</p>
+
+<br>
+
+<h3 align="center">📊 Data Analytics</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres&perline=3" />
+  <br>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
+
+<br>
+
+<h3 align="center">📈 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wnarmiin&show_icons=true&theme=radical" alt="Narmin's Stats" />
+</p>
