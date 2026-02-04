@@ -20,7 +20,7 @@
   </tr>
 </table>
 
-<br><br>
+<br>
 
 ## 🛠️ Languages and Tools
 
