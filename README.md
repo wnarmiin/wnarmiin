@@ -7,14 +7,14 @@
   <font color="red"><i>Hey Everyone, I'm Narmin</i></font>
 </h1>
 
-<table border="0">
-  <tr>
-    <td width="700">
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td width="700" style="border: none;">
       <br>
       <h3>💻 Frontend Developer | Data Analyst</h3>
       <p>📫 You can reach out to me via LinkedIn: <a href="https://www.linkedin.com/in/narmin-kazimova-0a64b2307/"><b>Narmin Kazimova</b></a></p>
     </td>
-    <td>
+    <td style="border: none;">
       <img src="https://github.com/wnarmiin/wnarmiin/raw/main/Pixel%20Coding%20Sticker%20by%20ArkusNexus.gif" width="220">
     </td>
   </tr>
