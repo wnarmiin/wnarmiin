@@ -19,7 +19,7 @@
 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma,strapi,py,mysql,postgres,git,svg,md&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,redux,nextjs,git,figma,py,oracle,excel,powerbi&theme=dark" />
 </p>
 
 <br><br>
