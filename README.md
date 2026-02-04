@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=Life+is+like+coding+-+sometimes+you+need+to+debug+and+refactor+to+make+things+work+smoothly." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=Life+is+like+coding+-+sometimes+you+need+to+debug+and+refactor+to+make+things+work+smoothly." alt="Typing SVG" />
 </p>
 
 <h1 align="center">
