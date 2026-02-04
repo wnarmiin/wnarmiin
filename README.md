@@ -24,7 +24,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma,git&theme=dark" width="600" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,strapi,tailwind,figma&theme=dark" width="550" />
 </p>
 
 <br><br>
@@ -34,7 +34,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,mysql,postgres,sqlite,md&theme=dark" width="400" />
+  <img src="https://skillicons.dev/icons?i=py,mysql,postgres,sqlite&theme=dark" width="300" />
   <br>
   <img src="https://img.shields.io/badge/SQL-2C2C2C?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-2C2C2C?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
@@ -42,3 +42,11 @@
 </p>
 
 <br><br>
+
+<h2 align="center">📈 GitHub Stats</h2>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wnarmiin&show_icons=true&theme=dark" />
+</p>
