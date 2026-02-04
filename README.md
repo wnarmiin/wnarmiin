@@ -9,19 +9,10 @@
 
 <img src="https://github.com/wnarmiin/wnarmiin/raw/main/Pixel%20Coding%20Sticker%20by%20ArkusNexus.gif" width="220" align="right">
 
-<br><br><br>
-
 ## 🛠️ Languages and Tools
 ---
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,strapi,tailwind,figma,py,mysql,postgres,sqlite,git&theme=dark" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-2C2C2C?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-2C2C2C?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
-  <img src="https://img.shields.io/badge/Excel-2C2C2C?style=for-the-badge&logo=microsoft-excel&logoColor=217346" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma,strapi,py,mysql,postgres,git,svg,md&theme=dark" />
 </p>
 
 <br><br>
