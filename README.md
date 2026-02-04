@@ -9,8 +9,15 @@
 
 <img src="https://github.com/wnarmiin/wnarmiin/raw/main/Pixel%20Coding%20Sticker%20by%20ArkusNexus.gif" width="220" align="right">
 
+💻 **Frontend Developer | Data Analyst**
+
+📫 You can reach out to me via LinkedIn: [Narmin Kazimova](https://www.linkedin.com/in/narmin-kazimova-0a64b2307/)
+
+<br><br><br>
+
 ## 🛠️ Languages and Tools
----
+
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma,strapi,py,mysql,postgres,git,svg,md&theme=dark" />
 </p>
