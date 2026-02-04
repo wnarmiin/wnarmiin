@@ -21,8 +21,6 @@
 
 <p align="center"><b>💻 Frontend Development</b></p>
 
----
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma,git" />
 </p>
@@ -30,8 +28,6 @@
 <br>
 
 <p align="center"><b>📊 Data Analytics</b></p>
-
----
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,mysql,postgres" />
@@ -44,7 +40,8 @@
 <br>
 
 <p align="center"><b>📈 GitHub Stats</b></p>
-<p align="center">_______________________________________________________________________________________________________________________________________</p>
+
+<p align="center"></p>
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=wnarmiin&show_icons=true&theme=dark" />
 </p>
