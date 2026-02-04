@@ -7,6 +7,8 @@
   <b><font size="7" color="red"><i>Hey Everyone, I'm Narmin</i></font></b>
 </p>
 
+---
+
 <img src="https://github.com/wnarmiin/wnarmiin/raw/main/Pixel%20Coding%20Sticker%20by%20ArkusNexus.gif" width="220" align="right">
 
 💻 **Frontend Developer | Data Analyst**
